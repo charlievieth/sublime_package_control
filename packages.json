@@ -8,7 +8,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "initial"
+					"branch": "master"
 				}
 			]
 		}
