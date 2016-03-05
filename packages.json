@@ -4,11 +4,10 @@
 		{
 			"name": "GoSubl",
 			"details": "https://github.com/charlievieth/GoSubl",
-			"labels": ["go"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"tags": true,
+					"tags": true
 				}
 			]
 		}
