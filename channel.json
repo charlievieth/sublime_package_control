@@ -1,6 +1,6 @@
 {
 	"schema_version": "3.0.0",
 	"repositories": [
-		"https://github.com/charlievieth/GoSubl"
+		"https://raw.githubusercontent.com/charlievieth/sublime_package_control/master/packages.json"
 	]
 }
