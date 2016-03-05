@@ -1,0 +1,16 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "GoSubl",
+			"details": "https://github.com/charlievieth/GoSubl",
+			"labels": ["go"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "initial"
+				}
+			]
+		},
+	]
+}
